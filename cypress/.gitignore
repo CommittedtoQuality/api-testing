@@ -1,0 +1,11 @@
+#misc
+node_modules
+cypress/downloads
+cypress/videos
+cypress/screenshots
+cypress/reports
+reports
+mochawesomeReports
+.DS_Store
+cypress/.DS_Store
+.idea
